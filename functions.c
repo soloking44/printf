@@ -4,6 +4,7 @@
 
 /**
  * print_char - it Prints char
+ * By Collins Onyekachi and Angel Kuria
  * @types: It lists arguments
  * @buffer: A buffer array to handle print
  * @flags:  It calculates active flags
