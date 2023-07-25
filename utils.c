@@ -2,6 +2,7 @@
 
 /**
  * is_printable - It evaluates if a char is printable
+ * This project is done by Angel Kuria and Collins Onyekachi
  * @c: A char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
