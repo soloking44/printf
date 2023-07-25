@@ -4,7 +4,7 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - a Printf function
- * by Collins Onyekachi
+ * by Collins Onyekachi and Angel Kuria
  * @format: the format.
  * Return: the number of characters printed.
  */
