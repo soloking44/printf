@@ -5,7 +5,7 @@
  * by collins and angel
  * @format: A formatted string in which to print the arguments
  * @i: it takes a parameter.
- * Return: The flags:
+ * Return: The flags space, hash, plus,minus and zero:
  */
 int get_flags(const char *format, int *i)
 {

@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * handle_print - it Prints an argument based on its type
+ * This file handles coversion specifires
  * by asakwonye collins and angel
  * @fmt: A formatted string in which to print the arguments.
  * @list: Lists of arguments to be printed.
@@ -10,7 +11,7 @@
  * @width: gets the width.
  * @precision: a Precision specification
  * @size: A size specifier
- * Return: 1 or 2;
+ * Return: reverse of a string
  */
 int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
 	int flags, int width, int precision, int size)
