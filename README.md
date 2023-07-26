@@ -1,6 +1,8 @@
+README.md
+
 0x11. C - printf team project
 
-This is a team Project on printf done by asakwonye collins onyekachi and angel kuria                                                                      
+This a team Project done by asakwonye collins onyekachi and angel kuria                                                                      
                                                                                     
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
